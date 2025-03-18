@@ -1,2 +1,2 @@
-nome = Mattia Roberti
+nome = "Mattia Roberti"
 print ("Mi chiamo", nome)
